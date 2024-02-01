@@ -18,5 +18,17 @@ C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/exercise15.dir
 C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/exercise16.dir
 C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/exercise17.dir
 C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/exercise18.dir
+C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/execerise25.dir
+C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/exercise28.dir
+C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/exercise29.dir
+C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/exercise30.dir
+C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/exercise32.dir
+C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/exercise33.dir
+C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/exercise34.dir
+C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/exercise35.dir
+C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/exercise36.dir
+C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/exercise44.dir
+C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/exercise45.dir
+C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/exercise49.dir
 C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Lenovo/sequences_continue/cmake-build-debug/CMakeFiles/rebuild_cache.dir

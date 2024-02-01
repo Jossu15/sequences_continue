@@ -760,6 +760,438 @@ build exercise18.exe: CXX_EXECUTABLE_LINKER__exercise18_Debug CMakeFiles\exercis
   TARGET_IMPLIB = exercise18.lib
   TARGET_PDB = exercise18.pdb
 
+# =============================================================================
+# Object build statements for EXECUTABLE target execerise25
+
+
+#############################################
+# Order-only phony target for execerise25
+
+build cmake_object_order_depends_target_execerise25: phony || CMakeFiles\execerise25.dir
+
+build CMakeFiles\execerise25.dir\array_vector.cpp.obj: CXX_COMPILER__execerise25_unscanned_Debug C$:\Users\Lenovo\sequences_continue\array_vector.cpp || cmake_object_order_depends_target_execerise25
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
+  OBJECT_DIR = CMakeFiles\execerise25.dir
+  OBJECT_FILE_DIR = CMakeFiles\execerise25.dir
+  TARGET_COMPILE_PDB = CMakeFiles\execerise25.dir\
+  TARGET_PDB = execerise25.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target execerise25
+
+
+#############################################
+# Link the executable execerise25.exe
+
+build execerise25.exe: CXX_EXECUTABLE_LINKER__execerise25_Debug CMakeFiles\execerise25.dir\array_vector.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\execerise25.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\execerise25.dir\
+  TARGET_FILE = execerise25.exe
+  TARGET_IMPLIB = execerise25.lib
+  TARGET_PDB = execerise25.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise28
+
+
+#############################################
+# Order-only phony target for exercise28
+
+build cmake_object_order_depends_target_exercise28: phony || CMakeFiles\exercise28.dir
+
+build CMakeFiles\exercise28.dir\expressions.cpp.obj: CXX_COMPILER__exercise28_unscanned_Debug C$:\Users\Lenovo\sequences_continue\expressions.cpp || cmake_object_order_depends_target_exercise28
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
+  OBJECT_DIR = CMakeFiles\exercise28.dir
+  OBJECT_FILE_DIR = CMakeFiles\exercise28.dir
+  TARGET_COMPILE_PDB = CMakeFiles\exercise28.dir\
+  TARGET_PDB = exercise28.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise28
+
+
+#############################################
+# Link the executable exercise28.exe
+
+build exercise28.exe: CXX_EXECUTABLE_LINKER__exercise28_Debug CMakeFiles\exercise28.dir\expressions.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\exercise28.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\exercise28.dir\
+  TARGET_FILE = exercise28.exe
+  TARGET_IMPLIB = exercise28.lib
+  TARGET_PDB = exercise28.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise29
+
+
+#############################################
+# Order-only phony target for exercise29
+
+build cmake_object_order_depends_target_exercise29: phony || CMakeFiles\exercise29.dir
+
+build CMakeFiles\exercise29.dir\fragment.cpp.obj: CXX_COMPILER__exercise29_unscanned_Debug C$:\Users\Lenovo\sequences_continue\fragment.cpp || cmake_object_order_depends_target_exercise29
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
+  OBJECT_DIR = CMakeFiles\exercise29.dir
+  OBJECT_FILE_DIR = CMakeFiles\exercise29.dir
+  TARGET_COMPILE_PDB = CMakeFiles\exercise29.dir\
+  TARGET_PDB = exercise29.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise29
+
+
+#############################################
+# Link the executable exercise29.exe
+
+build exercise29.exe: CXX_EXECUTABLE_LINKER__exercise29_Debug CMakeFiles\exercise29.dir\fragment.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\exercise29.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\exercise29.dir\
+  TARGET_FILE = exercise29.exe
+  TARGET_IMPLIB = exercise29.lib
+  TARGET_PDB = exercise29.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise30
+
+
+#############################################
+# Order-only phony target for exercise30
+
+build cmake_object_order_depends_target_exercise30: phony || CMakeFiles\exercise30.dir
+
+build CMakeFiles\exercise30.dir\contains_number.cpp.obj: CXX_COMPILER__exercise30_unscanned_Debug C$:\Users\Lenovo\sequences_continue\contains_number.cpp || cmake_object_order_depends_target_exercise30
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
+  OBJECT_DIR = CMakeFiles\exercise30.dir
+  OBJECT_FILE_DIR = CMakeFiles\exercise30.dir
+  TARGET_COMPILE_PDB = CMakeFiles\exercise30.dir\
+  TARGET_PDB = exercise30.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise30
+
+
+#############################################
+# Link the executable exercise30.exe
+
+build exercise30.exe: CXX_EXECUTABLE_LINKER__exercise30_Debug CMakeFiles\exercise30.dir\contains_number.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\exercise30.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\exercise30.dir\
+  TARGET_FILE = exercise30.exe
+  TARGET_IMPLIB = exercise30.lib
+  TARGET_PDB = exercise30.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise32
+
+
+#############################################
+# Order-only phony target for exercise32
+
+build cmake_object_order_depends_target_exercise32: phony || CMakeFiles\exercise32.dir
+
+build CMakeFiles\exercise32.dir\positive_numbers.cpp.obj: CXX_COMPILER__exercise32_unscanned_Debug C$:\Users\Lenovo\sequences_continue\positive_numbers.cpp || cmake_object_order_depends_target_exercise32
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
+  OBJECT_DIR = CMakeFiles\exercise32.dir
+  OBJECT_FILE_DIR = CMakeFiles\exercise32.dir
+  TARGET_COMPILE_PDB = CMakeFiles\exercise32.dir\
+  TARGET_PDB = exercise32.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise32
+
+
+#############################################
+# Link the executable exercise32.exe
+
+build exercise32.exe: CXX_EXECUTABLE_LINKER__exercise32_Debug CMakeFiles\exercise32.dir\positive_numbers.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\exercise32.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\exercise32.dir\
+  TARGET_FILE = exercise32.exe
+  TARGET_IMPLIB = exercise32.lib
+  TARGET_PDB = exercise32.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise33
+
+
+#############################################
+# Order-only phony target for exercise33
+
+build cmake_object_order_depends_target_exercise33: phony || CMakeFiles\exercise33.dir
+
+build CMakeFiles\exercise33.dir\evens_values.cpp.obj: CXX_COMPILER__exercise33_unscanned_Debug C$:\Users\Lenovo\sequences_continue\evens_values.cpp || cmake_object_order_depends_target_exercise33
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
+  OBJECT_DIR = CMakeFiles\exercise33.dir
+  OBJECT_FILE_DIR = CMakeFiles\exercise33.dir
+  TARGET_COMPILE_PDB = CMakeFiles\exercise33.dir\
+  TARGET_PDB = exercise33.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise33
+
+
+#############################################
+# Link the executable exercise33.exe
+
+build exercise33.exe: CXX_EXECUTABLE_LINKER__exercise33_Debug CMakeFiles\exercise33.dir\evens_values.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\exercise33.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\exercise33.dir\
+  TARGET_FILE = exercise33.exe
+  TARGET_IMPLIB = exercise33.lib
+  TARGET_PDB = exercise33.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise34
+
+
+#############################################
+# Order-only phony target for exercise34
+
+build cmake_object_order_depends_target_exercise34: phony || CMakeFiles\exercise34.dir
+
+build CMakeFiles\exercise34.dir\size_array.cpp.obj: CXX_COMPILER__exercise34_unscanned_Debug C$:\Users\Lenovo\sequences_continue\size_array.cpp || cmake_object_order_depends_target_exercise34
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
+  OBJECT_DIR = CMakeFiles\exercise34.dir
+  OBJECT_FILE_DIR = CMakeFiles\exercise34.dir
+  TARGET_COMPILE_PDB = CMakeFiles\exercise34.dir\
+  TARGET_PDB = exercise34.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise34
+
+
+#############################################
+# Link the executable exercise34.exe
+
+build exercise34.exe: CXX_EXECUTABLE_LINKER__exercise34_Debug CMakeFiles\exercise34.dir\size_array.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\exercise34.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\exercise34.dir\
+  TARGET_FILE = exercise34.exe
+  TARGET_IMPLIB = exercise34.lib
+  TARGET_PDB = exercise34.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise35
+
+
+#############################################
+# Order-only phony target for exercise35
+
+build cmake_object_order_depends_target_exercise35: phony || CMakeFiles\exercise35.dir
+
+build CMakeFiles\exercise35.dir\collection_expression.cpp.obj: CXX_COMPILER__exercise35_unscanned_Debug C$:\Users\Lenovo\sequences_continue\collection_expression.cpp || cmake_object_order_depends_target_exercise35
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
+  OBJECT_DIR = CMakeFiles\exercise35.dir
+  OBJECT_FILE_DIR = CMakeFiles\exercise35.dir
+  TARGET_COMPILE_PDB = CMakeFiles\exercise35.dir\
+  TARGET_PDB = exercise35.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise35
+
+
+#############################################
+# Link the executable exercise35.exe
+
+build exercise35.exe: CXX_EXECUTABLE_LINKER__exercise35_Debug CMakeFiles\exercise35.dir\collection_expression.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\exercise35.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\exercise35.dir\
+  TARGET_FILE = exercise35.exe
+  TARGET_IMPLIB = exercise35.lib
+  TARGET_PDB = exercise35.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise36
+
+
+#############################################
+# Order-only phony target for exercise36
+
+build cmake_object_order_depends_target_exercise36: phony || CMakeFiles\exercise36.dir
+
+build CMakeFiles\exercise36.dir\rewrite_array_not.cpp.obj: CXX_COMPILER__exercise36_unscanned_Debug C$:\Users\Lenovo\sequences_continue\rewrite_array_not.cpp || cmake_object_order_depends_target_exercise36
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
+  OBJECT_DIR = CMakeFiles\exercise36.dir
+  OBJECT_FILE_DIR = CMakeFiles\exercise36.dir
+  TARGET_COMPILE_PDB = CMakeFiles\exercise36.dir\
+  TARGET_PDB = exercise36.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise36
+
+
+#############################################
+# Link the executable exercise36.exe
+
+build exercise36.exe: CXX_EXECUTABLE_LINKER__exercise36_Debug CMakeFiles\exercise36.dir\rewrite_array_not.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\exercise36.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\exercise36.dir\
+  TARGET_FILE = exercise36.exe
+  TARGET_IMPLIB = exercise36.lib
+  TARGET_PDB = exercise36.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise44
+
+
+#############################################
+# Order-only phony target for exercise44
+
+build cmake_object_order_depends_target_exercise44: phony || CMakeFiles\exercise44.dir
+
+build CMakeFiles\exercise44.dir\evaluate_word.cpp.obj: CXX_COMPILER__exercise44_unscanned_Debug C$:\Users\Lenovo\sequences_continue\evaluate_word.cpp || cmake_object_order_depends_target_exercise44
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
+  OBJECT_DIR = CMakeFiles\exercise44.dir
+  OBJECT_FILE_DIR = CMakeFiles\exercise44.dir
+  TARGET_COMPILE_PDB = CMakeFiles\exercise44.dir\
+  TARGET_PDB = exercise44.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise44
+
+
+#############################################
+# Link the executable exercise44.exe
+
+build exercise44.exe: CXX_EXECUTABLE_LINKER__exercise44_Debug CMakeFiles\exercise44.dir\evaluate_word.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\exercise44.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\exercise44.dir\
+  TARGET_FILE = exercise44.exe
+  TARGET_IMPLIB = exercise44.lib
+  TARGET_PDB = exercise44.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise45
+
+
+#############################################
+# Order-only phony target for exercise45
+
+build cmake_object_order_depends_target_exercise45: phony || CMakeFiles\exercise45.dir
+
+build CMakeFiles\exercise45.dir\string_char.cpp.obj: CXX_COMPILER__exercise45_unscanned_Debug C$:\Users\Lenovo\sequences_continue\string_char.cpp || cmake_object_order_depends_target_exercise45
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
+  OBJECT_DIR = CMakeFiles\exercise45.dir
+  OBJECT_FILE_DIR = CMakeFiles\exercise45.dir
+  TARGET_COMPILE_PDB = CMakeFiles\exercise45.dir\
+  TARGET_PDB = exercise45.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise45
+
+
+#############################################
+# Link the executable exercise45.exe
+
+build exercise45.exe: CXX_EXECUTABLE_LINKER__exercise45_Debug CMakeFiles\exercise45.dir\string_char.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\exercise45.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\exercise45.dir\
+  TARGET_FILE = exercise45.exe
+  TARGET_IMPLIB = exercise45.lib
+  TARGET_PDB = exercise45.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target exercise49
+
+
+#############################################
+# Order-only phony target for exercise49
+
+build cmake_object_order_depends_target_exercise49: phony || CMakeFiles\exercise49.dir
+
+build CMakeFiles\exercise49.dir\counts_negative.cpp.obj: CXX_COMPILER__exercise49_unscanned_Debug C$:\Users\Lenovo\sequences_continue\counts_negative.cpp || cmake_object_order_depends_target_exercise49
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi
+  OBJECT_DIR = CMakeFiles\exercise49.dir
+  OBJECT_FILE_DIR = CMakeFiles\exercise49.dir
+  TARGET_COMPILE_PDB = CMakeFiles\exercise49.dir\
+  TARGET_PDB = exercise49.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target exercise49
+
+
+#############################################
+# Link the executable exercise49.exe
+
+build exercise49.exe: CXX_EXECUTABLE_LINKER__exercise49_Debug CMakeFiles\exercise49.dir\counts_negative.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -MDd -Zi
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\exercise49.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\exercise49.dir\
+  TARGET_FILE = exercise49.exe
+  TARGET_IMPLIB = exercise49.lib
+  TARGET_PDB = exercise49.pdb
+
 
 #############################################
 # Utility command for edit_cache
@@ -786,6 +1218,8 @@ build rebuild_cache: phony CMakeFiles\rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build execerise25: phony execerise25.exe
+
 build exercise1: phony exercise1.exe
 
 build exercise10: phony exercise10.exe
@@ -808,9 +1242,31 @@ build exercise18: phony exercise18.exe
 
 build exercise2: phony exercise2.exe
 
+build exercise28: phony exercise28.exe
+
+build exercise29: phony exercise29.exe
+
 build exercise3: phony exercise3.exe
 
+build exercise30: phony exercise30.exe
+
+build exercise32: phony exercise32.exe
+
+build exercise33: phony exercise33.exe
+
+build exercise34: phony exercise34.exe
+
+build exercise35: phony exercise35.exe
+
+build exercise36: phony exercise36.exe
+
 build exercise4: phony exercise4.exe
+
+build exercise44: phony exercise44.exe
+
+build exercise45: phony exercise45.exe
+
+build exercise49: phony exercise49.exe
 
 build exercise5: phony exercise5.exe
 
@@ -834,7 +1290,7 @@ build ssrfarray: phony ssrfarray.exe
 #############################################
 # Folder: C:/Users/Lenovo/sequences_continue/cmake-build-debug
 
-build all: phony sequences_continue.exe pointer_cmd.exe ssrfarray.exe primes.exe primes2.exe exercise1.exe exercise2.exe exercise3.exe exercise4.exe exercise5.exe exercise6.exe exercise10.exe exercise11.exe exercise12.exe exercise13.exe exercise14.exe exercise15.exe exercise16.exe exercise17.exe exercise18.exe
+build all: phony sequences_continue.exe pointer_cmd.exe ssrfarray.exe primes.exe primes2.exe exercise1.exe exercise2.exe exercise3.exe exercise4.exe exercise5.exe exercise6.exe exercise10.exe exercise11.exe exercise12.exe exercise13.exe exercise14.exe exercise15.exe exercise16.exe exercise17.exe exercise18.exe execerise25.exe exercise28.exe exercise29.exe exercise30.exe exercise32.exe exercise33.exe exercise34.exe exercise35.exe exercise36.exe exercise44.exe exercise45.exe exercise49.exe
 
 # =============================================================================
 # Built-in targets
